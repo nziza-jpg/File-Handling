@@ -1,0 +1,4 @@
+Name: John Banda
+Class: 8
+Favorite Subject: English
+Least Favourite Subject: Math
